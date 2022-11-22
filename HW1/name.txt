@@ -1,0 +1,5 @@
+5 beijing shanghai tianjin wuhan guangzhou
+10 black white red blue yellow green pink purple gray orange
+8 cat dog chick horse cow sheep bird goose
+6 river mountain hill plain lake island
+5 integer float double char bool
